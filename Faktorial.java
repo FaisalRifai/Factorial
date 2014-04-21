@@ -20,8 +20,8 @@ public class Faktorial {
                     System.out.print(" x ");
                 }
                 jlh = jlh * i;
-            }
-            System.out.println("\n   = " + jlh);
+            }System.out.println("  = " + jlh);
+            
         }
     }
 }
