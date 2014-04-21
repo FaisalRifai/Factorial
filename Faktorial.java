@@ -17,7 +17,7 @@ public class Faktorial {
             for (i = 1; i <= a; i++) {
                 System.out.print(i);
                 if (i < a) {
-                    System.out.print(" x ");
+                   // System.out.print(" x ");
                 }
                 jlh = jlh * i;
             }System.out.println("  = " + jlh);
